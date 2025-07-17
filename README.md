@@ -88,5 +88,6 @@ Azure Policy Exemptions documentation - https://learn.microsoft.com/en-us/azure/
 
 Microsoft Defender for Cloud Secure Score - https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
 
-![alt text](image.png)
+<img width="1985" height="1023" alt="image" src="https://github.com/user-attachments/assets/c91a53ee-a55b-4091-94c4-68082be939a8" />
+
 
