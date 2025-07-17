@@ -44,4 +44,3 @@ if ($assignment) {
     }
 }
 
-This email and the information contained herein is proprietary and confidential and subject to the Amdocs Email Terms of Service, which you may review at https://www.amdocs.com/about/email-terms-of-service
