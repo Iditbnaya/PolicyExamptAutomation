@@ -88,5 +88,16 @@ Azure Policy Exemptions documentation - https://learn.microsoft.com/en-us/azure/
 
 Microsoft Defender for Cloud Secure Score - https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
 
+---
+
+## 🤝 Contributing
+
+Community contributions are welcome!  
+Please check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) for how to get started.
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
 
 
